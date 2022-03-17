@@ -3,7 +3,7 @@
         "@File": [
             ["@Repo/src/main.py", "@Get"],
             ["@Repo/src/IO.py", "@Get"],
-            ["@Repo/src/GetProblems.py", "@Get"],
+            ["@Repo/src/GetProblem.py", "@Get"],
             ["@Repo/src/Msg.py", "@Get"]
         ],
         "settings": {
